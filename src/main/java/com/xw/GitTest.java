@@ -15,5 +15,7 @@ public class GitTest {
         System.out.println("master push test commit222!");
 
         System.out.println("master gitee test commit!");
+        System.out.println("github update1!");
+
     }
 }
